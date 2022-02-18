@@ -1,0 +1,10 @@
+{
+  "lang": {
+    "title": "English"
+  },
+  "document": {
+    "productName": "Product name",
+    "minErr": "Minimum 2 characters to fill",
+    "reqField": "Required field"
+  }
+}
